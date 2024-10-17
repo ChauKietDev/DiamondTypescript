@@ -1,0 +1,106 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "day chuyen",
+            "image": "./image/product-01-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 2,
+            "name": "day chuyen",
+            "image": "./image/product-21-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 3,
+            "name": "day chuyen",
+            "image": "./image/product-04-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 4,
+            "name": "day chuyen",
+            "image": "./image/product-04-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 5,
+            "name": "day chuyen",
+            "image": "./image/product-07-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 6,
+            "name": "day chuyen",
+            "image": "./image/product-09-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 7,
+            "name": "day chuyen",
+            "image": "./image/product-10-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 8,
+            "name": "day chuyen",
+            "image": "./image/product-12-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 9,
+            "name": "day chuyen",
+            "image": "./image/product-15-480x480.jpg",
+            "gia": 300000
+        },
+        {
+            "id": 10,
+            "name": "day chuyen",
+            "image": "./image/product-17-480x480.jpg",
+            "gia": 300000
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "name": "ACCESSORIES",
+            "image": "./image/cate-01.png"
+        },
+        {
+            "id": 2,
+            "name": "DIAMONDS",
+            "image": "./image/cate-02.png"
+        },
+        {
+            "id": 3,
+            "name": "EARRINGS",
+            "image": "./image/cate-03.png"
+        },
+        {
+            "id": 4,
+            "name": "GIFTS SET",
+            "image": "./image/cate-04.png"
+        },
+        {
+            "id": 5,
+            "name": "PEARLES",
+            "image": "./image/cate-05.png"
+        },
+        {
+            "id": 6,
+            "name": "NECKLACES",
+            "image": "./image/cate-01.png"
+        },
+        {
+            "id": 7,
+            "name": "RINGS",
+            "image": "./image/cate-01.png"
+        },
+        {
+            "id": 8,
+            "name": "WEDDING",
+            "image": "./image/cate-01.png"
+        }
+    ]
+}
